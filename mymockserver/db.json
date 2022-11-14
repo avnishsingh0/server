@@ -4,18 +4,41 @@
     
     {"id":"thapaserialnoa",
     "reting":"fa fa-star checked",
-    "name":"iphone x",
-    "company":"Natori",
+    "name":"Long Fleece Shacket",
+    "company":"BLANKNYC",
     "offer":"Limited-Time Sale",
-    "price":"INR 1,522.15",
-    "price1":"INR 2,029.23",
-    "price2":"INR 5,073.02",
+    "price":"INR 4,565.58 ( Extra 25% off )",
+    "price1":"INR 6,088.58",
+    "price2":"INR 10,147.63",
     "colors":["#ff0000","#000000","#CDD0D0"],
     "image":"https://n.nordstrommedia.com/id/sr3/2f41cf14-284f-46f9-b2cf-c49ae6ee7903.jpeg?q=45&dpr=2&h=365.31&w=230",
-    "description":"The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"mobile",
-    "women":true},
+    "description":"A longer length keeps your legs cozy in this workwear-inspired shirt-jacket fashioned from plush, lightweight fleece.",
+    "category":"mobile",
+    "women":true,
+    "stock":5,
+    "imgs":
+     [
+      "https://n.nordstrommedia.com/id/sr3/2f41cf14-284f-46f9-b2cf-c49ae6ee7903.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "https://n.nordstrommedia.com/id/sr3/c007fd6a-0c2b-4e89-b3bb-663b999ee6ad.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    
 
-    {"id":"thapaserialnol",
+    
+  ]
+  
+  
+  
+  
+  
+  
+  },
+  
+  
+  
+  
+  
+  
+  
+  {"id":"thapaserialnol",
     "reting":"fa fa-star checked",
     "name":"galaxy w20",
     "price":"INR 2,941.09",
@@ -26,18 +49,39 @@
     "colors":["#22D3EF","#ff0000","#000000"],
     "image":"https://n.nordstrommedia.com/id/sr3/c74b972e-ea9c-41df-a345-58d4f86ba30e.jpeg?q=45&dpr=2&h=365.31&w=230",
     "description":"This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"watch",
-    "women":true},
+    "women":true,
+    "stock":5,
+   "imgs":["https://n.nordstrommedia.com/id/sr3/de42aee2-e398-4760-8482-76f739977977.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+  "https://n.nordstrommedia.com/id/sr3/3e887b25-b542-49be-b1c6-bb07fff8849f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+
+  ]
+  },
+    
+    
+    
+    
     
     {"id":"thapaserialnoaa",
     "name":"iphone xa",
     "reting":"fa fa-star checked",
     "company":"1.STATE",
     "offer":"Limited-Time Sale",
+    "colors":["#ff0000","#000000","#CDD0D0"],
     "price":"INR 2,312.15",
     "price1":"INR 5,059.13",
     "price2":"INR 8,063.32",
-    "image":"https://n.nordstrommedia.com/id/sr3/2891cc65-48d1-418e-822e-d3147cd6499c.jpeg?q=45&dpr=2&h=365.31&w=230",
-    "women":true},
+    "image":"https://n.nordstrommedia.com/id/sr3/1c6978bf-6378-4883-ae9b-946ae9b4aa38.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "women":true,
+    "stock":5,
+    "imgs":["https://n.nordstrommedia.com/id/sr3/1c6978bf-6378-4883-ae9b-946ae9b4aa38.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+  "https://n.nordstrommedia.com/id/sr3/5cee265e-cddf-4c33-bb84-a0ef39d32fb3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+  ]
+  },
+   
+   
+   
+   
+   
     {
       "id":"thapaserialnoaa",
       "name":"iphone x",
@@ -45,10 +89,17 @@
       "company":"BLANCKNYC",
       "offer":"Limited-Time Sale",
       "price":"INR 4,522.15",
+      "colors":["#ff0000","#000000","#CDD0D0"],
       "price1":"INR 5,029.23",
       "price2":"INR 8,073.02",
-      "image":"https://n.nordstrommedia.com/id/sr3/7a8c6175-0d91-4e1d-8f46-d4708f90cc97.jpeg?q=45&dpr=2&h=365.31&w=230",
-      "women":true},
+      "image":"https://n.nordstrommedia.com/id/sr3/f9bf41e7-5e42-4944-86da-91872da4cdbb.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "women":true,
+      "stock":5,
+      "imgs":["https://n.nordstrommedia.com/id/sr3/f9bf41e7-5e42-4944-86da-91872da4cdbb.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "https://n.nordstrommedia.com/id/sr3/80845435-1442-4d20-8c61-76032a2735e4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+    ]
+
+    },
     
       {"id":"thapaserialnoh",
       "name":"Accessories",
@@ -62,6 +113,10 @@
       "image":"https://n.nordstrommedia.com/id/d3bf0785-458e-4732-b944-391983260803.jpg",
       "description":"The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"accessories",
       "women":true,
+      "stock":5,
+      "imgs":["https://n.nordstrommedia.com/id/sr3/f9bf41e7-5e42-4944-86da-91872da4cdbb.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "https://n.nordstrommedia.com/id/sr3/80845435-1442-4d20-8c61-76032a2735e4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196"
+      ],
       "shipping":true},
       
       {
